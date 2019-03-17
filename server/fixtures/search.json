@@ -1,0 +1,147 @@
+{
+  "created": "2019-03-16T16:56:15.535Z",
+  "count": 2,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "6a65d878-fcd0-42cf-aff9-ca1d636a8bcc",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 100,
+      "name": "Foals",
+      "sort-name": "Foals",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "33587495-c775-4483-b819-931c4cf438cd",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Oxford",
+        "sort-name": "Oxford",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2005",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "post-rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 4,
+          "name": "math rock"
+        },
+        {
+          "count": 1,
+          "name": "post-punk"
+        },
+        {
+          "count": 0,
+          "name": "uk"
+        },
+        {
+          "count": 3,
+          "name": "indie rock"
+        },
+        {
+          "count": -1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "art rock"
+        },
+        {
+          "count": -1,
+          "name": "lyricist"
+        },
+        {
+          "count": 1,
+          "name": "dance-punk"
+        },
+        {
+          "count": 0,
+          "name": "oxford"
+        },
+        {
+          "count": -1,
+          "name": "parolier"
+        },
+        {
+          "count": -1,
+          "name": "compositeur"
+        },
+        {
+          "count": 0,
+          "name": "rock and indie"
+        }
+      ]
+    },
+    {
+      "id": "814dabc5-de62-4ac2-bd0d-c60ffa08daaa",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "name": "Jimmy Smith",
+      "sort-name": "Smith, Jimmy",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Foals member",
+      "ipis": [
+        "00560379932"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Smith, James Andrew",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "James Andrew Smith",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "guitariste"
+        },
+        {
+          "count": 1,
+          "name": "guitarist"
+        }
+      ]
+    }
+  ]
+}
