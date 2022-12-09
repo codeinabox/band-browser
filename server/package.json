@@ -4,7 +4,7 @@
   "description": "API server",
   "main": "src/index.js",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "node-fetch": "^2.6.1"
   },
   "devDependencies": {
